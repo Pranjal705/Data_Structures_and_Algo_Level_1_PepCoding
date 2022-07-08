@@ -1,4 +1,4 @@
-package tcs_advanced_coding;
+package dp_gfg;
 
 //Gold Mine Problem 
 //Easy Accuracy: 51.7% Submissions: 37691 Points: 2

@@ -1,4 +1,4 @@
-package tcs_advanced_coding;
+package dp_gfg;
 //{ Driver Code Starts
 import java.io.*;
 import java.util.*;

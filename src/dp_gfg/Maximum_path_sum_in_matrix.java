@@ -1,4 +1,4 @@
-package tcs_advanced_coding;
+package dp_gfg;
 //Maximum path sum in matrix 
 //Medium Accuracy: 50.83% Submissions: 32791 Points: 4
 //Lamp
